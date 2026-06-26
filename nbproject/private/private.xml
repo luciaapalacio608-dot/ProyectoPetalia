@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/src/java/Model/Pedido.java</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/Catalogo.jsp</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/navbar.jsp</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/src/java/Controller/PedidoServlet.java</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/src/java/DAO/PedidoDAO.java</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/src/java/Model/Producto.java</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/src/java/Model/PedidoDetalle.java</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/src/java/DAO/ProductoDAO.java</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/src/java/DAO/PedidoDetalleDAO.java</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/PedidosAdmin.jsp</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/MisPedidos.jsp</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/Registro.jsp</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/Historial.jsp</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/Clientes.jsp</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/Admin.jsp</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/principal.jsp</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/Empleados.jsp</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/src/java/DAO/Conexion.java</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/src/java/Controller/CatalogoServlet.java</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/img/graduacion.jpg</file>
+            <file>file:/C:/Users/lucia/OneDrive/Desktop/NetBeans/ProyectoFinal/web/img/boda.jpg</file>
+        </group>
+    </open-files>
+</project-private>
